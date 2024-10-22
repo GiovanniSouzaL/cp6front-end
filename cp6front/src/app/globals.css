@@ -8,5 +8,13 @@
     .cabecalho{
         @apply bg-gray-800 text-white text-3xl font-bold p-4 w-[100vw] h-[25vh] m-auto text-center;
     }
+
+    .menu {
+        @apply flex gap-5 justify-center items-center h-[15vh]; 
+    }
+
+    .rodape {
+        @apply flex bg-gray-900 text-white text-xl p-4 w-[100vw] h-[15vh] text-center gap-5 justify-center items-center relative bottom-0 left-0 list-none;
+    }
 }
 
