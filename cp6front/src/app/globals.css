@@ -16,5 +16,25 @@
     .rodape {
         @apply flex bg-gray-900 text-white text-xl p-4 w-[100vw] h-[15vh] text-center gap-5 justify-center items-center relative bottom-0 left-0 list-none;
     }
+    .conteudo-1{
+        @apply flex-col top-0 bg-gray-200 text-gray-900 text-2xl font-bold w-[100vw] justify-center p-4
+    }
+
+    .titulo{
+        @apply text-center m-auto
+    }
+
+    .paragrafo-1{
+        @apply text-center m-auto mt-[3%] w-[80vw]
+    }
 }
 
+@layer app {
+    .titulo {
+        font-size: 2.5rem !important; 
+        font-weight: bold !important; 
+        color: #000000; 
+        text-align: center; 
+        margin: 20px 0; 
+    }
+}
