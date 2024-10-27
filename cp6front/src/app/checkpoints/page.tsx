@@ -15,18 +15,23 @@ export default function CheckPoints() {
       <p>Giovanni CP2: não realizado</p>
       <p>Victor CP2: 10/10</p>
       <p>Vitor CP2: 10/10</p>
+      <p>Pedro CP2: 10/10</p>
 
       <p className="text-xl font-bold mt-6 mb-4">Cp3</p>
       <p>Nesse CP foi pedido para fazer um sistema de login e logout em um site.</p>
       <p>Giovanni CP3: não realizado</p>
       <p>Victor CP3: não realizado</p>
       <p>Vitor CP3: não realizado</p>
+      <p>Pedro CP3: não realizado</p>
 
       <p className="text-xl font-bold mt-6 mb-4">Cp4</p>
       <p>Nesse CP foi pedido para fazer um site com React para uma livraria e SPA.</p>
       <p>Giovanni CP4: não realizado</p>
       <p>Victor CP4: não realizado</p>
       <p>Vitor CP4: não realizado</p>
+      <p>Pedro CP4: não realizado</p>
+
+      
 
       <p className="text-xl font-bold mt-6 mb-4">Cp5</p>
       <p>Nesse CP foi pedido um site com páginas sobre o livro de Immanuel Velikovsky, "Worlds in Collision".</p>
