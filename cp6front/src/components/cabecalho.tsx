@@ -8,7 +8,7 @@ export default function Cabecalho() {
         <Link href="/">Dashboard</Link>
         <Link href="/checkpoints">CheckPoints</Link>
         <Link href="/globalsolution">GlobalSolution</Link>
-        <Link href="/challenger-sprints">Challenger Sprints</Link>
+        <Link href="/challenger-sprints">Challenger-Sprints</Link>
       </nav>
     </header>
   );
