@@ -1,10 +1,3 @@
-import Spinner from "@/components/Spinner/Spinner";
-
 export default function Loading() {
-  return (
-    <h1>
-        <Spinner/>
-    </h1>
-
-  )
-}
+    return <div className="p-4 text-center">Carregando...</div>;
+  }
