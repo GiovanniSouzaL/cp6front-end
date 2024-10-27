@@ -3,7 +3,7 @@ import Cabecalho from '@/components/cabecalho';
 import Rodape from '@/components/rodape';
 
 export const metadata = {
-  title: 'cp6 front-end',
+  title: 'Cp6 front-end portfólio',
   description: 'Gerenciamento de Avaliações',
 };
 
