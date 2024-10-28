@@ -34,7 +34,7 @@ export default function CheckPoints() {
       
 
       <p className="text-xl font-bold mt-6 mb-4">Cp5</p>
-      <p>Nesse CP foi pedido um site com páginas sobre o livro de Immanuel Velikovsky, "Worlds in Collision".</p>
+      <p>Nesse CP foi pedido um site com páginas sobre o livro de Immanuel Velikovsky, Worlds in Collision.</p>
       <a href="https://github.com/GiovanniSouzaL/cp5_front" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-blue-500 no-underline hover:text-blue-700 transition duration-200">Giovanni CP5: 4.5/10</a><br/>
       <a href="https://github.com/GiovanniSouzaL/cp5_front" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-blue-500 no-underline hover:text-blue-700 transition duration-200">Victor CP5: 5/10</a><br/>
       <a href="https://github.com/felipesora/cp5" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-blue-500 no-underline hover:text-blue-700 transition duration-200">Vitor e Pedro: 6.5/10</a>
