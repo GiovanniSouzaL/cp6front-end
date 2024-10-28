@@ -11,4 +11,4 @@
 | Pedro Paulo Barretta         | RM556370|
 
 ### Descrição do Projeto
-Este projeto visa a análise de dados acadêmicos, onde serão explorados os dados de desempenho dos estudantes, com o objetivo de identificar padrões, correlações e insights que possam contribuir para a melhoria dos processos educacionais e estratégias de ensino. A análise será feita com técnicas de ciência de dados, desde a coleta e limpeza dos dados até a visualização e interpretação
+A Dashboard central exibe informações detalhadas sobre os participantes de forma abrangente e organizada. No topo, um menu principal proporciona uma navegação intuitiva, organizando eficientemente as avaliações mais relevantes. Em cada aba de avaliação, é possível visualizar as notas individuais de cada participante, o que oferece uma perspectiva clara e estruturada do desempenho geral. Essa abordagem não apenas facilita a análise, mas também enriquece a experiência do usuário, permitindo um acompanhamento mais eficaz das informações.
