@@ -1,17 +1,14 @@
+# Projeto de Análise de Dados Acadêmicos
 
-# cp6front-end
+### Integrantes do Grupo
 
+| Nome Completo                | RM      |
+|------------------------------|---------|
+| Vitor Tadeu Soares de Sousa  | RM559105|
+| Mariana Roberti Neri         | RM556284|
+| Victor Giovani Agrela        | RM557345|
+| Giovanni de Souza Lima       | RM556536|
+| Pedro Paulo Barretta         | RM556370|
 
-
-
-## Integrantes
-
-* Vitor Tadeu Soares de Sousa
-* Pedro Paulo Barretta
-* Giovanni de Souza Lima
-* Victor Agrela
-* Mariana Roberti de Neri
-## Apresentação
-
-O projeto contém a Dashboard com as informações dos participantes, e acima, existe um menu com as avaliações principais, e nas abas onde elas estão tem as notas de cada participante.
-
+### Descrição do Projeto
+Este projeto visa a análise de dados acadêmicos, onde serão explorados os dados de desempenho dos estudantes, com o objetivo de identificar padrões, correlações e insights que possam contribuir para a melhoria dos processos educacionais e estratégias de ensino. A análise será feita com técnicas de ciência de dados, desde a coleta e limpeza dos dados até a visualização e interpretação
